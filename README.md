@@ -12,3 +12,12 @@
 
 ## Useful Commands
 deactivate - manually get out of the virtual environment
+
+## How to use GitHub
+Adding new files or changes to github
+1. git add .
+    - if you're working on changes and don't want to save all the files then instead of a period just write the file names you want added.
+2. git commit -m "add notes about what you changed here"
+3. git status
+    - this checks that all the files you want added are "staged". If you see the file in green then you are good.
+4. git push
